@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406053945755",
+    "project_id": "charactersrm",
+    "storage_bucket": "charactersrm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406053945755:android:e9698281d5dabcd952213e",
+        "android_client_info": {
+          "package_name": "com.reptylon.weatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqwXjdV6eBNkXL4kzB00djWSTbY19bYlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
